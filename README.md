@@ -55,13 +55,16 @@ The insights empower organizations to prioritize **in-demand skills** like **Pyt
 
 ## 📊 **Dashboard Preview**  
 ### 📍 **Current Technology Usage**  
-![Current Tech Dashboard](https://via.placeholder.com/800x400.png?text=Current+Technology+Usage+Snapshot)
+![final_capstone_dashboard_page-0001](https://github.com/user-attachments/assets/08224528-c53d-4f6d-a81a-6d5a24c5acfd)
+
 
 ### 📍 **Future Technology Trends**  
-![Future Trends Dashboard](https://via.placeholder.com/800x400.png?text=Future+Trends+Snapshot)
+![final_capstone_dashboard_page-0002](https://github.com/user-attachments/assets/e53f6602-8a9b-46f1-99d6-1170bd9577d9)
 
-### 📍 **Demographics**  
-![Demographics Dashboard](https://via.placeholder.com/800x400.png?text=Demographics+Snapshot)
+
+### 📍 **Demographics** 
+![final_capstone_dashboard_page-0003](https://github.com/user-attachments/assets/50be5667-dc0f-4115-9003-9f441659ba5b)
+
 
 *(Full dashboards available in the PDF above.)*
 
